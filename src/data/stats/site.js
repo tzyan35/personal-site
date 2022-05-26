@@ -17,7 +17,6 @@ const data = [
     xargs -I file cat file | wc -l */
     label: 'Lines of Javascript powering this website',
     value: '2115',
-    link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
   },
 ];
 
