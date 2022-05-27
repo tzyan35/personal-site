@@ -23,25 +23,40 @@ const data = [
       + 'and nutrient deficiencies at an affordable price for the developing world.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Food Recipe Search',
+    subtitle: 'A website to search for different food recipes.',
+    link: 'https://foodrecipe99.herokuapp.com/',
+    image: '/images/projects/foodrecipe.png',
+    date: '2020-08-18',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Created a more advanced website using EDAMAM API and deployed through Netlify. '
+      + ' This website allows the client to search for any food inclusive of dietary options. '
+      + ' The website will fetch the API and send back food recipes.'
+      + ' Skills Required: React, REST API, CSS',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Weather Application',
+    subtitle: 'A simple website to check the weather of any city in the world',
+    link: 'https://weatherapp92.herokuapp.com/',
+    image: '/images/projects/weather.png',
+    date: '2020-05-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'A simple website to check the weather of any city in the world.'
+      + ' Type the location of any city on the top and weather information will appear.'
+      + ' Project uses OpenWeather API and is deployed through Heroku'
+      + ' Skills Required: React, REST API, CSS.',
+  },
+  {
+    title: 'Semi-Automated Animal Videos Youtube Channel',
+    subtitle: 'A Youtube channel that curates the best animal videos on Instagram',
+    link: 'https://weatherapp92.herokuapp.com/',
+    image: '/images/projects/catdetector.jpg',
+    date: '2020-05-15',
+    desc:
+      'A simple website to check the weather of any city in the world.'
+      + ' Type the location of any city on the top and weather information will appear.'
+      + ' Project uses OpenWeather API and is deployed through Heroku'
+      + ' Skills Required: React, REST API, CSS.',
   },
 ];
 
