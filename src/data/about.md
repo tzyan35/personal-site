@@ -1,7 +1,7 @@
 
 # Intro
 
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I am particularly interested in projects that requires fetching API data, creating analytical charts, and web3 development. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
@@ -44,20 +44,22 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # I like
 
 - Video Games
-- Skiing
-- Sailing and the sea
+- Puzzles
+- Bowling 
+- Racket Sports
+- Swimming
+- Music
 - Space
-- Summer
+- Photography
+- [Technical analysis](https://medium.com/@cryptostaker)
 - [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
 - [Good design](/)
 - [Photography](https://instagram.com/dangelosaurus)
 
 # Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
+- I am from originally from Singapore. I have always wanted to experience living in another country. Hopefully this line will be amended in a few years.
+- I've been to many countries in the Asia region, but I have never stepped foot out of Asia, other than travelling to Australia once with some of my Army.
 - In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
 - In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
 - In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
@@ -77,9 +79,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I dream of
 
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- you not checking the commit history for earlier drafts of this file.
+- building a successful GameFi eventually.
+- travelling to space.
+- travelling down to the Mariana Trench.
+- 
 
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
+If you're all the way down here, thanks for reading everything. This is just a summary of my life. I'd be happy to share with you more
