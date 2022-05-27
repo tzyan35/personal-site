@@ -5,15 +5,15 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-    + 'co-founder and CTO of Arthena, and YC Alumni.'}
+    description={'Toh Zhongyan personal website. Nanyang Technological University graduate'
+    + ''}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            My Personal Website. Generated using Modern Javascript and React JS.
+            My Personal Website.Generated using Modern Javascript and React JS.
           </p>
         </div>
       </header>
@@ -24,6 +24,7 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
+      <p> Alternatively, check out my LinkedIn <a href="https://www.linkedin.com/in/toh-zhongyan-754301205/">here</a>.</p>
       <p> All credits for website design goes to <a href="https://github.com/mldangelo/personal-site">Michael D Angelo</a>.</p>
     </article>
   </Main>

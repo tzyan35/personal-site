@@ -1,8 +1,7 @@
 const positions = [
   {
-    company: 'Arthena',
-    position: 'Co-founder, C.T.O.',
-    link: 'https://arthena.com',
+    company: 'Nanyang Technological University',
+    position: 'Student Assistant',
     daterange: 'January 2014 - Present',
     points: [
       'Deployed quantitative strategies to predict the value of fine art in various pricing contexts.',
