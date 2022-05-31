@@ -55,7 +55,7 @@ const data = [
     desc:
       'A Semi-Automated Youtube Channel that curates Instagram and auto-downloads and uploads cute animal vidoes every day.'
       + ' Built using Python, Instabot library and Youtube API.'
-      + ' Stopped auto-downloading and eventual upload because of the lack of memory space on Hard Drive Test.',
+      + ' Stopped auto-downloading and eventual upload because of the lack of memory space on Hard Drive Test Test.',
   },
 ];
 
