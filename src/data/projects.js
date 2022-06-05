@@ -1,6 +1,31 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'NTU Final Year Project',
+    subtitle: 'Ethically Designed AI influencers.',
+    link: 'https://dr.ntu.edu.sg/browse?type=author&value=Toh%2C+Zhongyan&value_lang=en_US',
+    image: '/images/projects/ntu.jpg',
+    date: '2021-10-18',
+    desc:
+      'Argued that Artificial Intelligence influencers can replace human social media influencers'
+      + ' if these AI influencers can perform tasks ordinarilly performed by human social media influencers.'
+      + ' and can be ethically designed and implemented. The thesis focuses on John Rawls concept of political liberalism'
+      + " and the Organisation for Economic Co-operation and Development(OECD) AI ethical code of conduct. "
+      + " The thesis also delves into philosophical issues like machine consciousness and the consequence of technological singularity"
+      + " through the works of Philsopher John Searle and Computer Scientist Andrew Ng. (Grade: A) " 
+  },
+  {
+    title: 'Chibi Whales NFT ',
+    subtitle: 'A collection of 5000 different NFTs on Opensea',
+    link: 'https://chibiwhalez.netlify.app/',
+    image: '/images/projects/test.png',
+    date: '2021-10-18',
+    desc:
+      'Created and deployed a collection of 5000 ready-to-mint NFTs on the Polygon Chain. Each'
+      + ' NFT has its own unique IPFS and ID, and all contracts are tested first on the Ethereum Rinkeby Testnet '
+      + ' before moving over to the Polygon Chain.'
+  },
+  {
     title: 'Food Recipe Search',
     subtitle: 'A website to search for different food recipes.',
     link: 'https://foodrecipe99.herokuapp.com/',
