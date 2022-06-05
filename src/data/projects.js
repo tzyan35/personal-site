@@ -5,7 +5,7 @@ const data = [
     subtitle: 'Ethically Designed AI influencers.',
     link: 'https://dr.ntu.edu.sg/browse?type=author&value=Toh%2C+Zhongyan&value_lang=en_US',
     image: '/images/projects/ntu.jpg',
-    date: '2021-10-18',
+    date: '2022-05-15',
     desc:
       'Argued that Artificial Intelligence influencers can replace human social media influencers'
       + ' if these AI influencers can perform tasks ordinarilly performed by human social media influencers.'
@@ -19,7 +19,7 @@ const data = [
     subtitle: 'A collection of 5000 different NFTs on Opensea',
     link: 'https://chibiwhalez.netlify.app/',
     image: '/images/projects/test.png',
-    date: '2021-10-18',
+    date: '2021-05-01',
     desc:
       'Created and deployed a collection of 5000 ready-to-mint NFTs on the Polygon Chain. Each'
       + ' NFT has its own unique IPFS and ID, and all contracts are tested first on the Ethereum Rinkeby Testnet '
