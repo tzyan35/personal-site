@@ -1,4 +1,14 @@
 const courses = [
+    {
+    title: 'React - The Complete Guide (incl Hooks, React Router, Redux)',
+    link: 'https://nlbsg.udemy.com/certificate/UC-e126bd4d-242a-4fe4-a909-f43fead9f534/',
+    university: 'Udemy',
+  },  
+  {
+    title: 'Modern GraphQL with Node - Complete Developers Guide',
+    link: 'https://nlbsg.udemy.com/certificate/UC-f30a4c9b-2c36-4636-8656-364bc799b822/',
+    university: 'Udemy',
+  },
   {
     title: 'NLP - Natural Language Processing with Python',
     link: 'https://nlbsg.udemy.com/certificate/UC-4fe6ec1d-212d-4a8d-8033-2ac64fcc4b47/',
